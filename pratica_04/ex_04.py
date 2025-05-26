@@ -23,8 +23,8 @@ def contar_pares_impares():
             print("Erro: Entrada inválida. Por favor, digite um número inteiro ou 'fim'.")
 
     print("\n--- Resumo ---")
-    print(f"Quantidade de números pares inseridos: {pares}")
-    print(f"Quantidade de números ímpares inseridos: {impares}")
+    print(f"Quantidade de números pares inseridos: {pares} ")
+    print(f"Quantidade de números ímpares inseridos: {impares} ")
 
 
 if __name__ == "__main__":
